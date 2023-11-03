@@ -1,0 +1,35 @@
+#food1 {
+ background-color: beige;
+ border: 2px solid #ef9849;
+ height: 820px;
+ width: 700px;
+ padding: 20px;
+ }
+.jollof {
+  width: 5px;
+  /* margin: 0 auto; */
+  margin: 50px 100px;
+}
+
+img {
+  width: 400px;
+  /* margin: 20px; */
+  margin-left: 35px;
+ }
+
+ h2 {
+  text-align: center;
+  margin: 0;
+ }
+ button {
+  border: none;
+  background-color:#ef9849;
+  padding: 6px 8px;
+  border-radius: 3px;
+  cursor: pointer;
+  margin-bottom: 15px;
+  transition: 0.5s;
+ }
+ button:hover {
+  background-color: darkkhaki;
+}

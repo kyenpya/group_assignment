@@ -1,0 +1,37 @@
+#food2 {
+  background-color: beige;
+  border: 2px solid #ef9849;
+  height: 820px;
+  width: 700px;
+  padding: 20px;
+  /* color: white; */
+  }
+ .chin-chin {
+   width: 5px;
+   /* margin: 0 auto; */
+   margin: 50px 50px;
+ }
+ 
+ img {
+   width: 600px;
+   /* margin: 20px; */
+   margin-left: 10px;
+  }
+ 
+  h2 {
+   text-align: center;
+   margin: 0;
+  }
+  button {
+   border: none;
+   color: white;
+   background-color:#ef9849;
+   padding: 6px 8px;
+   border-radius: 3px;
+   cursor: pointer;
+   margin-bottom: 15px;
+   transition: 0.5s;
+  }
+  button:hover {
+   background-color: darkkhaki;
+ }
