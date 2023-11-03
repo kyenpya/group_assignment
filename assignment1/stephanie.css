@@ -1,0 +1,27 @@
+
+.container{
+    max-width: 50%;
+    background-color: grey;
+    margin: 10% auto;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+.content {
+    margin: 0 auto;
+    max-width: 60%;
+}
+
+#link{
+margin: 0 auto;
+
+width: fit-content;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+
+button{
+    background-color: black;
+   
+}
