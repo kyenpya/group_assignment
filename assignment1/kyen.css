@@ -4,10 +4,10 @@
  height: 820px;
  width: 700px;
  padding: 20px;
+ margin: 0 auto;
  }
 .jollof {
   width: 5px;
-  /* margin: 0 auto; */
   margin: 50px 100px;
 }
 
