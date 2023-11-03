@@ -1,3 +1,3 @@
-#DevDynamos First Group Task
+DevDynamos First Group Task
 
-This repo contains assignment done by the DevDynamos.
+This repo contains assignments done by the DevDynamos.
