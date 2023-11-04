@@ -7,7 +7,7 @@ Each CSS class represents a different element or set of elements on the page.
 
 /* Styles for the parent div with class .hav */
   .hav {
-      background-color: #8b2020;
+      background-color: #fcf6f6;
       padding: 70px;
       border: 2px solid white;
       margin: 0 auto;
