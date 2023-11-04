@@ -1,0 +1,91 @@
+/* 
+This CSS code defines styles for a webpage's elements. 
+It includes styling for parent containers, text alignment, padding, 
+border, margin, width, height, and font size. 
+Each CSS class represents a different element or set of elements on the page.
+*/
+
+/* Styles for the parent div with class .hav */
+.hav {
+    background-color: #f8f6f6;
+    padding: 70px;
+    border: 2px solid white;
+    margin: 0 auto;
+    width: 450px;
+    height: 400px;
+    margin-top: 0%;
+  }
+  
+  /* Styles for the div with class .havv */
+  /**.havv {
+    background-color: #faf7f7;
+    padding: 70px;
+    border: 2px solid white;
+    margin: 0 auto;
+    width: 570px;
+    height: 500px;
+  }*/
+  
+  /* Styles for the div with class .havi */
+  .havi {
+    width: 400px;
+    padding: auto;
+    height: 300px;
+    margin-left: 30px;
+  }
+  
+  /* Styles for the div with class .havii */
+  /*.havii {
+    width: 530px;
+    align-items: center;
+    margin-left: 40px;
+    padding: auto;
+    height: 350px;
+  }*/
+  
+  /* Styles for elements with class .havu */
+  .havu {
+    font-size: 40px;
+    text-align: center;
+    margin: 10px 0;
+  }
+  
+  /* Styles for elements with class .havuti */
+  .havuti {
+    font-size: 16px;
+    width: 520px;
+  }
+  
+  /* Styles for elements with class .havuti2 */
+  /**.havuti2 {
+    font-size: 20px;
+  }*/
+  
+  /* Styles for elements with class .next */
+  .next {
+    border: none;
+    text-align: center;
+    padding: 6px 8px;
+    border-radius: 6px;
+    cursor: pointer;
+    margin-bottom: 15px;
+    transition: 0.5s;
+    font-size: 20px;
+  }
+  
+  /* Hover effect for elements with class .next */
+  .next:hover {
+    background-color: darkkhaki;
+  }
+  
+  /* Styles for elements with class .but */
+  .but {
+    text-align: center;
+    font-size: 40px;
+  }
+  
+  /* Styles for elements with class .but1 */
+  .but1 {
+    font-size: 20px;
+  }
+  
