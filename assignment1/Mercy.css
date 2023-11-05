@@ -1,50 +1,42 @@
-.one{
-    text-align: center;
-    background-color: rgb(192, 27, 214);
-    padding: 60px;
-    border-radius: 10px;
-    width: 500px;
-    height: 720px;
+#food2 {
+    background-color: rgb(244, 244, 231);
+    border: 2px solid #ef9849;
+    height: 700px;
+    width: 700px;
+    padding: 20px;
     margin: 0 auto;
-}
-
-.two{
-    width: 400px;  
-
-}
-
-.three{
-    font-size: 50px;
-    margin: 10;
-}
-
-.four{
-font-size: 18px;
-}
-
-.one A{
-    text-align: center;
-    padding: 60px;
+    border-radius: 30px;
+    border-style: dotted;
+    }
+   .chin-chin {
+     width: 5px;
+     /* margin: 0 auto; */
+     margin: 50px 100px;
+   }
+   
+   img {
+    width: 500px;
     border-radius: 10px;
-    max-width: 450px;
-    margin:0 auto;
-}
-
-.two A{
-    max-width: 400%;
-    height: 0 auto;
-}
-.three A{
-    font-size: 50px;
-    margin: 10; 
-}
-.four A{
-    font-size: 18px; 
-}
-
-.previous{
-    align-items: center;
-    text-align: center;
-    padding: 10px;
-    background-color: chartreuse;
-}
+    }
+   
+    h2 {
+      margin: 0;
+      font-family: cursive;
+    }
+    pre {
+      margin: 0;
+      line-height: 23px;
+     }
+    button {
+     border: none;
+     color: white;
+     background-color:#ef9849;
+     padding: 6px 8px;
+     border-radius: 3px;
+     cursor: pointer;
+     margin-bottom: 15px;
+     transition: 0.5s;
+    }
+    button:hover {
+     background-color: darkkhaki;
+   }
