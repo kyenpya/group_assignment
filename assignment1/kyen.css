@@ -48,3 +48,6 @@ img {
  button:hover {
   background-color: darkkhaki;
 }
+/* button:active {
+  opacity: 0.7;
+} */
