@@ -27,32 +27,55 @@ Each CSS class represents a different element or set of elements on the page.
 .div2 {
   width: 5px;
   margin: 50px 100px;
+  align-items:center ;
 }
 /* Styles for the div with class .havi */
 .havi {
   width: 500px;
+  align-items: center;
   height: 350px;
   border-radius: 8px;
+  margin-left: 5px;
   /* width: 400px;
     padding: auto;
     height: 300px;
     margin-left: 30px; */
 }
+.havii {
+  width: 550px;
+  align-items: center;
+  height: 350px;
+  border-radius: 8px;
+  margin-left: 50px;
+
+}
 /* Styles for elements with class .havu */
 .havu {
   font-size: 40px;
-  text-align: center;
+  text-align:left;
   margin: 30px 0;
   font-weight: normal;
 }
-
+.havu1{
+  font-size: 40px;
+  text-align:left;
+  margin: 30px 0;
+  font-weight: normal;
+  margin-left: 15px;
+}
 /* Styles for elements with class .havuti */
 .havuti {
-  font-size: 16px;
+  font-size: 20px;
   width: 520px;
+  
   line-height: 25px;
 }
-
+.havuti1 {
+  font-size: 20px;
+  width: 520px;
+  margin-left: 20px;
+  line-height: 25px;
+}
 /* Styles for elements with class .next */
 button {
   border: none;
@@ -71,6 +94,8 @@ button:hover {
 
 /* Styles for elements with class .but */
 .but {
-  text-align: center;
+  text-align:left;
   font-size: 40px;
+  margin-bottom: 2px;
+margin-left: 20px;
 }
