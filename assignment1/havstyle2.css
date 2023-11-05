@@ -46,31 +46,17 @@ Each CSS class represents a different element or set of elements on the page.
     height: 300px;
     margin-left: 30px; */
 }
-<<<<<<< HEAD
 
 .havi1 {
   width: 480px;
   height: 350px;
   border-radius: 8px;
-=======
-.havii {
-  width: 550px;
-  align-items: center;
-  height: 350px;
-  border-radius: 8px;
-  margin-left: 70px;
-
->>>>>>> 7d45f6a427547d3cf3008bfcf1895b367eda9a76
 }
 /* Styles for elements with class .havu */
 .havu {
   font-size: 40px;
-<<<<<<< HEAD
   font-family: cursive;
   text-align: center;
-=======
-  text-align:left;
->>>>>>> 7d45f6a427547d3cf3008bfcf1895b367eda9a76
   margin: 30px 0;
   font-weight: normal;
 }
