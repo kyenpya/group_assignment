@@ -28,6 +28,11 @@ Each CSS class represents a different element or set of elements on the page.
   width: 5px;
   margin: 50px 100px;
 }
+
+.div3 {
+  width: 5px;
+  margin: 50px 100px;
+}
 /* Styles for the div with class .havi */
 .havi {
   width: 500px;
@@ -38,9 +43,16 @@ Each CSS class represents a different element or set of elements on the page.
     height: 300px;
     margin-left: 30px; */
 }
+
+.havi1 {
+  width: 480px;
+  height: 350px;
+  border-radius: 8px;
+}
 /* Styles for elements with class .havu */
 .havu {
   font-size: 40px;
+  font-family: cursive;
   text-align: center;
   margin: 30px 0;
   font-weight: normal;
@@ -71,6 +83,5 @@ button:hover {
 
 /* Styles for elements with class .but */
 .but {
-  text-align: center;
-  font-size: 40px;
+  margin-bottom: 15px;
 }
