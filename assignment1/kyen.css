@@ -1,3 +1,4 @@
+/* styling for the box model */
 #food1 {
  background-color: beige;
  border: 2px solid #ef9849;
@@ -6,21 +7,27 @@
  padding: 20px;
  margin: 0 auto;
  }
+
+ /* child div styling */
 .jollof {
   width: 5px;
   margin: 50px 100px;
 }
 
+/* image styling */
 img {
   width: 400px;
   /* margin: 20px; */
   margin-left: 35px;
  }
 
+/* heading style */
  h2 {
   text-align: center;
   margin: 0;
  }
+
+ /* button styling */
  button {
   border: none;
   background-color:#ef9849;
@@ -30,6 +37,8 @@ img {
   margin-bottom: 15px;
   transition: 0.5s;
  }
+
+ /* more button styling */
  button:hover {
   background-color: darkkhaki;
 }
