@@ -1,27 +1,58 @@
-
-.container{
-    max-width: 50%;
-    background-color: grey;
-    margin: 10% auto;
-    padding-top: 5%;
-    padding-bottom: 5%;
+.container {
+  background-color: rgb(244, 244, 231);
+  border: 2px solid #ef9849;
+  height: 700px;
+  width: 700px;
+  padding: 20px;
+  margin: 0 auto;
+  border-radius: 30px;
+  border-style: dotted;
 }
-.content {
-    margin: 0 auto;
-    max-width: 60%;
-}
-
-#link{
-margin: 0 auto;
-
-width: fit-content;
-}
-a{
-    text-decoration: none;
-    color: white;
+/* .content {
+  margin: 0 auto;
+  max-width: 60%;
+} */
+#image {
+  width: 5px;
+  margin: 50px 100px;
 }
 
-button{
-    background-color: black;
-   
+/* .anchor {
+  width: 5px;
+  margin: 2px 2px; */
+}
+
+h2 {
+  margin: 0;
+  font-family: cursive;
+}
+
+pre {
+  margin: 0;
+  line-height: 18px;
+}
+
+img {
+  width: 500px;
+  border-radius: 8px;
+}
+
+#link {
+  margin: 0 auto;
+
+  width: fit-content;
+}
+button {
+  border: none;
+  background-color: #ef9849;
+  padding: 6px 8px;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-bottom: 15px;
+  transition: background-color 0.15s;
+}
+
+/* more button styling */
+button:hover {
+  background-color: darkkhaki;
 }

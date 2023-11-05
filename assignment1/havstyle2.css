@@ -71,7 +71,6 @@ Each CSS class represents a different element or set of elements on the page.
 .havuti {
   font-size: 20px;
   width: 520px;
-  
   line-height: 25px;
 }
 .havuti1 {
@@ -98,12 +97,5 @@ button:hover {
 
 /* Styles for elements with class .but */
 .but {
-<<<<<<< HEAD
   margin-bottom: 15px;
-=======
-  text-align:left;
-  font-size: 40px;
-  margin-bottom: 2px;
-margin-left: 20px;
->>>>>>> 7d45f6a427547d3cf3008bfcf1895b367eda9a76
 }
