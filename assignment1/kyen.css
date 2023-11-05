@@ -1,11 +1,13 @@
 /* styling for the box model */
 #food1 {
- background-color: beige;
+ background-color: rgb(244, 244, 231);
  border: 2px solid #ef9849;
- height: 820px;
+ height: 700px;
  width: 700px;
  padding: 20px;
  margin: 0 auto;
+ border-radius: 30px;
+ border-style: dotted;
  }
 
  /* child div styling */
@@ -16,15 +18,19 @@
 
 /* image styling */
 img {
-  width: 400px;
-  /* margin: 20px; */
-  margin-left: 35px;
+  width: 500px;
+  border-radius: 8px;
  }
 
 /* heading style */
  h2 {
-  text-align: center;
   margin: 0;
+  font-family: cursive;
+ }
+
+ pre {
+  margin: 0;
+  line-height: 23px;
  }
 
  /* button styling */
@@ -32,11 +38,11 @@ img {
   border: none;
   background-color:#ef9849;
   padding: 6px 8px;
-  border-radius: 3px;
+  border-radius: 5px;
   cursor: pointer;
   margin-bottom: 15px;
-  transition: 0.5s;
- }
+  transition: background-color 0.15s;
+}
 
  /* more button styling */
  button:hover {

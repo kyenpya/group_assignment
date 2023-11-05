@@ -6,55 +6,71 @@ Each CSS class represents a different element or set of elements on the page.
 */
 
 /* Styles for the parent div with class .hav */
-  .hav {
-      background-color: #fcf6f6;
+.hav {
+  background-color: rgb(249, 223, 223);
+  border: 2px solid #ef9849;
+  height: 700px;
+  width: 700px;
+  padding: 20px;
+  margin: 0 auto;
+  border-radius: 30px;
+  border-style: dotted;
+  /* background-color: #fcf6f6;
       padding: 70px;
       border: 2px solid white;
       margin: 0 auto;
       width: 450px;
       height: 400px;
-      margin-top: 0%;
-      }
+      margin-top: 0%; */
+}
+
+.div2 {
+  width: 5px;
+  margin: 50px 100px;
+}
 /* Styles for the div with class .havi */
-  .havi {
-    width: 400px;
+.havi {
+  width: 500px;
+  height: 350px;
+  border-radius: 8px;
+  /* width: 400px;
     padding: auto;
     height: 300px;
-    margin-left: 30px;
-    }
+    margin-left: 30px; */
+}
 /* Styles for elements with class .havu */
-  .havu {
-    font-size: 40px;
-    text-align: center;
-    margin: 10px 0;
-    }
-  
+.havu {
+  font-size: 40px;
+  text-align: center;
+  margin: 30px 0;
+  font-weight: normal;
+}
+
 /* Styles for elements with class .havuti */
-  .havuti {
-    font-size: 16px;
-    width: 520px;
-    }
-  
+.havuti {
+  font-size: 16px;
+  width: 520px;
+  line-height: 25px;
+}
+
 /* Styles for elements with class .next */
-  .next {
-    border: none;
-    text-align: center;
-    padding: 6px 8px;
-    border-radius: 6px;
-    cursor: pointer;
-    margin-bottom: 15px;
-    transition: 0.5s;
-    font-size: 20px;
-    }
-  
+button {
+  border: none;
+  background-color: #ef9849;
+  padding: 6px 8px;
+  border-radius: 3px;
+  cursor: pointer;
+  margin-bottom: 15px;
+  transition: 0.5s;
+}
+
 /* Hover effect for elements with class .next */
-  .next:hover {
-    background-color: rgb(98, 136, 101);
-    }
-  
+button:hover {
+  background-color: rgb(98, 136, 101);
+}
+
 /* Styles for elements with class .but */
-  .but {
-    text-align: center;
-    font-size: 40px;
-    }
-  
+.but {
+  text-align: center;
+  font-size: 40px;
+}
