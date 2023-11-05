@@ -1,0 +1,50 @@
+.one{
+    text-align: center;
+    background-color: rgb(192, 27, 214);
+    padding: 60px;
+    border-radius: 10px;
+    width: 500px;
+    height: 720px;
+    margin: 0 auto;
+}
+
+.two{
+    width: 400px;  
+
+}
+
+.three{
+    font-size: 50px;
+    margin: 10;
+}
+
+.four{
+font-size: 18px;
+}
+
+.one A{
+    text-align: center;
+    padding: 60px;
+    border-radius: 10px;
+    max-width: 450px;
+    margin:0 auto;
+}
+
+.two A{
+    max-width: 400%;
+    height: 0 auto;
+}
+.three A{
+    font-size: 50px;
+    margin: 10; 
+}
+.four A{
+    font-size: 18px; 
+}
+
+.previous{
+    align-items: center;
+    text-align: center;
+    padding: 10px;
+    background-color: chartreuse;
+}
